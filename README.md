@@ -1,5 +1,5 @@
 # AngularJS - Dropdown estados e cidades brasileiras
-Elementos de seleção do HTML com estados e cidades brasileiras com correlação, desenvolvido para AngularJS (1.x)
+Elementos de seleção do HTML "<select>" com estados e cidades brasileiras com correlação, desenvolvido para AngularJS (1.x)
 
 ## Uso
 
