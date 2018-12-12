@@ -1,6 +1,6 @@
 angular.module('brLocation', [])
 .factory("brLocation", function() {
-  var scope = {}, cidades = {}, cidade, estado;
+  var scope = {};
   scope.data = [{
     sigla: "AC",
     nome: "Acre",
