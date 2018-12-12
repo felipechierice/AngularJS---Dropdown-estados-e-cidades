@@ -34,6 +34,6 @@ Componente de cidades:
 
 Obter valores:
 ```javascript
-brLocation.estado // Estado selecionado
-brLocation.cidade // Cidade selecionada
+$scope.brLocation.estado // Estado selecionado
+$scope.brLocation.cidade // Cidade selecionada
 ```
